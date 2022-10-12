@@ -5,7 +5,7 @@ metadata:
   labels:
     app: bgd
   name: bgd
-  namespace: argocd-b
+  namespace: argocd-a
 spec:
   replicas: 1
   selector:
